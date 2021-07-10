@@ -19,6 +19,11 @@ export default function Home() {
           <div>
             <img src="/seal.png" alt="Tribal Seal" className="h-16 "/>
           </div>
+          <nav className="flex flex-row justify-end  ">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</nav>
         </div>
        
       </header>
